@@ -1,0 +1,91 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Gisela, I am a full stack developer based in Houston, TX ⭐ Please contact me for any inquiries. 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Marvel Character Index",
+        "startDate": "2022",
+        "description": "A marvel character index that displays the media that the character appears in.",
+        "images": [
+          "images/portfolio/icons/hero.png"
+        ],
+        "url": "https://emsaw721.github.io/ragnarok/",
+        "technologies": [
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bookworm",
+        "startDate": "2022",
+        "description": "A book review website that allows users to review books and see what other users have to say about them.",
+        "images": [
+          "images/portfolio/icons/book.png",
+          "images/portfolio/icons/book.png"
+        ],
+        "url": "https://warm-savannah-80854.herokuapp.com"
+
+      },
+      {
+        "title": "Quiz App",
+        "startDate": "2022",
+        "description": "A quiz app that allows users to take quizzes and see their scores.",
+        "images": [
+          "images/portfolio/icons/quiz.png",
+          "images/portfolio/icons/quiz.png"
+        ],
+        "url": "https://giselamarque.github.io/StarQuiz/",
+        "technologies": [
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+
+
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+      }
+    ]
+  }

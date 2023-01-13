@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-mailto": "^0.4.0",
+    "state": "^0.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
